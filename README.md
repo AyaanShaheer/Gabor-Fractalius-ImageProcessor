@@ -18,8 +18,8 @@ SciPy
 Setup Instructions
 Clone the Repository:
 ```
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone https://github.com/AyaanShaheer/Gabor-Fractalius-ImageProcessor.git
+cd STREAMLIT_APP
 ```
 Install Required Packages: It's recommended to use a virtual environment. You can install the necessary packages using:
 ```
